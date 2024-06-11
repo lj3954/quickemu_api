@@ -1,0 +1,3 @@
+[submodule "quickemu"]
+	path = quickemu
+	url = git@github.com:lj3954/quickemu-rs.git
